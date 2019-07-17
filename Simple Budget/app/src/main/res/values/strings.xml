@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">S.O.B.</string>
+
+    <string name="yellow">#f9d684</string>
+    <string name="dark_gray">#272727</string>
+    <string name="light_gray">#595959</string>
+    <string name="black">#000000</string>
+    <string name="brown">#39221f</string>
+
+    <string name="donationBody">
+        Buy me a coffee, is a donation platform where you can assist me in creating more add- and cost-free Apps by making a donation (Buying a coffee).
+        \n\n
+        A single coffee equates to $3 (transaction fees included)
+        \n\n
+        If you would like to buy me a coffee, please click on the link below:
+    </string>
+</resources>

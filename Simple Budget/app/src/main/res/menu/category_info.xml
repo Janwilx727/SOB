@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/archiveCategory"
+        android:title="Archive Category" />
+
+    <item
+        android:id="@+id/deleteCategory"
+        android:title="Delete Category" />
+
+    <!--<item-->
+        <!--android:id="@+id/addCategory"-->
+        <!--android:title="Add Category" />-->
+
+</menu>
